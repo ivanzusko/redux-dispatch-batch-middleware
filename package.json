@@ -1,6 +1,6 @@
 {
   "name": "redux-dispatch-batch-middleware",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "middleware that allow to dispatch an array of actions",
   "repository": {
     "type": "git",
