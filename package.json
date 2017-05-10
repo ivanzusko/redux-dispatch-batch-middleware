@@ -12,8 +12,8 @@
   "homepage": "https://github.com/ivanzusko/redux-dispatch-batch-middleware",
   "main": "dist/index.js",
   "scripts": {
-    "build": "babel src --out-dir dist",
     "clean": "rm -rf dist",
+    "build": "babel src --out-dir dist",
     "prepublish": "npm run clean && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
